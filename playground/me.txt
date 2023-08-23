@@ -1,5 +1,0 @@
-{{#user}}
-Name: Ashutosh Rana
-Skills: HTML, CSS.
-Email: ashutoshrana3036@gmail.com
-{{/user}}
